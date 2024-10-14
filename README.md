@@ -12,6 +12,8 @@ Frontend code has been moved to https://github.com/grafana/grafana-aws-sdk-react
 
 ## Drone configuration
 
+
+
 Drone signs the Drone configuration file. This needs to be run every time the drone.yml file is modified. See https://github.com/grafana/deployment_tools/blob/master/docs/infrastructure/drone/signing.md for more info.
 
 ### Update drone build
